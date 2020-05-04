@@ -1,0 +1,93 @@
+body{
+	background-color: rgba(255,203,123,255);
+}
+.main{
+	height: 452px;
+	width: 900px;
+	background-color: rgba(240,165,98);
+	display: flex;
+	margin-left: 210px;
+	margin-top: 80px;
+	border: 1px solid black;
+	border-radius: 40px 100px 40px 100px;
+}
+.preview{
+	height: 450px;
+	width: 450px;
+	border-radius: 40px 00px 40px 100px;
+	border: 2px solid black;
+}
+.test{
+	height: 100px;
+	width: 300px;
+	font-size: 30pt;
+	margin-left: 40px;
+}
+.year{
+	margin-top: 100px;
+	margin-left: -26%;
+	font-size: 15pt;
+	font-weight: bold;
+}
+.year1{
+	margin-top: 140px;
+	margin-left: -21%;
+	font-size: 15pt;
+	font-weight: bold;
+}
+.year2{
+	margin-top: 180px;
+	margin-left: -20%;
+	font-size: 15pt;
+	font-weight: bold;
+}
+.year3{
+	margin-top: 220px;
+	margin-left: -37%;
+	font-size: 15pt;
+	font-weight: bold;
+}
+.year0{
+	margin-top: 60px;
+	margin-left: -37%;
+	font-size: 15pt;
+	font-weight: bold;
+}
+.year4{
+	margin-top: 260px;
+	margin-left: -16%;
+	font-size: 15pt;
+	font-weight: bold;
+}
+.text{
+	height: 100px;
+	width: 300px;
+	margin-top: 300px;
+	margin-left: -16%;
+	margin-top: 320px;
+	background-color: rgba(255,203,123,255);
+	font-size: 30pt;
+	border-radius: 20px 20px 20px 20px;
+	border: 1px solid black;
+}
+.modal{
+	position: absolute;
+	height: 130px;
+	width: 500px;
+	background-color: rgba(240,165,98);
+	display: flex;
+	margin-left: 400px;
+	margin-top: 100px;
+	border: 1px solid black;
+	border-radius: 30px 80px 30px 80px;
+	display: none;
+}
+.m{
+	font-size: 30pt;
+	margin-left: 40px;
+}
+.asd{
+	width: 150px;
+	background-color: rgba(255,203,123,255);
+	margin-left: 150px;
+}
